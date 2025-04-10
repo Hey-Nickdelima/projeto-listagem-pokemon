@@ -41,5 +41,3 @@ Estruturação de um projeto no GitHub
 
 👩‍💻 Desenvolvedora
 Nicole de Lima Silva
-LinkedIn
-GitHub
