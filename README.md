@@ -54,11 +54,3 @@ https://hey-nickdelima.github.io/projeto-listagem-pokemon/
 [LinkedIn](https://www.linkedin.com/in/hey-nick-de-lima)  
 [GitHub](https://github.com/Hey-Nickdelima)
 
----
-
-## 💡 Próximos Passos
-
-- Adicionar interatividade com JavaScript (ex: filtro por nome do Pokémon)
-- Utilizar API de Pokémons (ex: PokéAPI)
-- Melhorar responsividade mobile
-- Publicar no GitHub Pages
